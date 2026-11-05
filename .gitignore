@@ -1,0 +1,11 @@
+# Flutter/Dart build artifacts
+**/build/
+**/.dart_tool/
+**/.idea/
+**/.gradle/
+**/ephemeral/
+**/*.dill
+**/*.lock.bak
+.DS_Store
+Thumbs.db
+
